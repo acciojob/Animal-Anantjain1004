@@ -4,7 +4,7 @@ body {
 	margin:0;
 	padding:0:
       }
-      .main {
+      #animal-photos {
         left: 70px;
         padding: 30px;
         display: grid;
